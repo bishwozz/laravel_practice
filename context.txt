@@ -15,7 +15,7 @@ Don't repeat yourself (DRY).
 ---------------------------------------------
 Prefer to use Eloquent over using Query Builder and raw SQL queries. Prefer collections over arrays.
 ----------------------------------------------------------------------------------------------------
-Mass assignment
+Mass assignment.
 ----------------
 Do not execute queries in Blade templates and use eager loading (N + 1 problem)
 --------------------------------------------------------------------------------
