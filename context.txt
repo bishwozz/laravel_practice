@@ -19,7 +19,7 @@ Mass assignment.
 ----------------
 Do not execute queries in Blade templates and use eager loading (N + 1 problem).
 --------------------------------------------------------------------------------
-Chunk data for data-heavy tasks
+Chunk data for data-heavy tasks.
 ----------------------------------------
 Comment your code, but prefer descriptive method and variable names over comments
 --------------------------------------------------------------------------------
