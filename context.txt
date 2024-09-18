@@ -17,7 +17,7 @@ Prefer to use Eloquent over using Query Builder and raw SQL queries. Prefer coll
 ----------------------------------------------------------------------------------------------------
 Mass assignment.
 ----------------
-Do not execute queries in Blade templates and use eager loading (N + 1 problem)
+Do not execute queries in Blade templates and use eager loading (N + 1 problem).
 --------------------------------------------------------------------------------
 Chunk data for data-heavy tasks
 ----------------------------------------
