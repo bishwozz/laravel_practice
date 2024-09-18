@@ -21,7 +21,7 @@ Do not execute queries in Blade templates and use eager loading (N + 1 problem).
 --------------------------------------------------------------------------------
 Chunk data for data-heavy tasks.
 ----------------------------------------
-Comment your code, but prefer descriptive method and variable names over comments
+Comment your code, but prefer descriptive method and variable names over comments.
 --------------------------------------------------------------------------------
 Do not put JS and CSS in Blade templates and do not put any HTML in PHP classes
 --------------------------------------------------------------------------------
