@@ -7,7 +7,7 @@ Methods should do just one thing.
 ---------------------------------
 Fat models, skinny controllers.
 -------------------------
-Validation
+Validation.
 ----------
 Business logic should be in service class
 ----------------------------------------
