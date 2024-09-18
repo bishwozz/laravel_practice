@@ -3,7 +3,7 @@ Contents :
 ===========================================================================
 Single responsibility principle.
 -------------------------------
-Methods should do just one thing
+Methods should do just one thing.
 ---------------------------------
 Fat models, skinny controllers
 -------------------------
