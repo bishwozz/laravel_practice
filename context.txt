@@ -43,6 +43,6 @@ Store dates in the standard format. Use accessors and mutators to modify date fo
 -------------------------------------------------------------------------------------
 Do not use DocBlocks.
 ---------------------
-Other good practices
+Other good practices.
 ---------------------
 ===================================================================================
