@@ -29,7 +29,7 @@ Use config and language files, constants instead of text in the code.
 ---------------------------------------------------------------------------
 Use standard Laravel tools accepted by community.
 --------------------------------------------------
-Follow Laravel naming conventions
+Follow Laravel naming conventions.
 ---------------------------------------------
 Convention over configuration
 ----------------------------------------
