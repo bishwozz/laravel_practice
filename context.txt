@@ -23,9 +23,9 @@ Chunk data for data-heavy tasks.
 ----------------------------------------
 Comment your code, but prefer descriptive method and variable names over comments.
 --------------------------------------------------------------------------------
-Do not put JS and CSS in Blade templates and do not put any HTML in PHP classes
+Do not put JS and CSS in Blade templates and do not put any HTML in PHP classes.
 --------------------------------------------------------------------------------
-Use config and language files, constants instead of text in the code
+Use config and language files, constants instead of text in the code.
 ---------------------------------------------------------------------------
 Use standard Laravel tools accepted by community
 --------------------------------------------------
