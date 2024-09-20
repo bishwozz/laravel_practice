@@ -41,7 +41,7 @@ Do not get data from the .env file directly.
 --------------------------------------------
 Store dates in the standard format. Use accessors and mutators to modify date format.
 -------------------------------------------------------------------------------------
-Do not use DocBlocks
+Do not use DocBlocks.
 ---------------------
 Other good practices
 ---------------------
