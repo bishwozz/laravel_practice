@@ -37,7 +37,7 @@ Use shorter and more readable syntax where possible.
 ----------------------------------------------------
 Use IoC container or facades instead of new Class.
 --------------------------------------------------
-Do not get data from the .env file directly
+Do not get data from the .env file directly.
 --------------------------------------------
 Store dates in the standard format. Use accessors and mutators to modify date format
 -------------------------------------------------------------------------------------
