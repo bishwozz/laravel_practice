@@ -35,7 +35,7 @@ Convention over configuration.
 ----------------------------------------
 Use shorter and more readable syntax where possible.
 ----------------------------------------------------
-Use IoC container or facades instead of new Class
+Use IoC container or facades instead of new Class.
 --------------------------------------------------
 Do not get data from the .env file directly
 --------------------------------------------
