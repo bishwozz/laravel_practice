@@ -39,7 +39,7 @@ Use IoC container or facades instead of new Class.
 --------------------------------------------------
 Do not get data from the .env file directly.
 --------------------------------------------
-Store dates in the standard format. Use accessors and mutators to modify date format
+Store dates in the standard format. Use accessors and mutators to modify date format.
 -------------------------------------------------------------------------------------
 Do not use DocBlocks
 ---------------------
