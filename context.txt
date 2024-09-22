@@ -6,7 +6,7 @@ Single responsibility principle.
 Methods should do just one thing.
 ---------------------------------
 Fat models, skinny controllers.
--------------------------
+-------------------------------
 Validation.
 -----------
 Business logic should be in service class.
