@@ -32,7 +32,7 @@ Use standard Laravel tools accepted by community.
 Follow Laravel naming conventions.
 ---------------------------------------------
 Convention over configuration.
-----------------------------------------
+------------------------------
 Use shorter and more readable syntax where possible.
 ----------------------------------------------------
 Use IoC container or facades instead of new Class.
