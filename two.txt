@@ -1,5 +1,5 @@
 Methods should do just one thing
-==================
+============================
 A function should do just one thing and do it well.
 
 Bad:
