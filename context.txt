@@ -2,6 +2,8 @@
 1=Contents :
 ==============================================
 ==============================================
+
+
 Single responsibility principle.
 -------------------------------
 Methods should do just one thing.
