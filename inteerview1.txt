@@ -1,6 +1,8 @@
 ==========
 Middleware:
 
-=
+= Middleware is a convenient mechanism for inspecting 
+    and filtering HTTP request entering your application.
+    
 
 
