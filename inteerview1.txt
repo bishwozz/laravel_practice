@@ -1,8 +1,12 @@
 ==========
 Middleware:
 
-= Middleware is a convenient mechanism for inspecting 
-    and filtering HTTP request entering your application.
+what?
+= Middleware acts as a layer between a request and the application.
+ It is a type of filtering mechanism that intercepts HTTP requests
+  to examine and modify them before they reach controllers.
+   Middleware is often used for tasks like authentication, logging, and handling CORS.
+    
     
 
 
