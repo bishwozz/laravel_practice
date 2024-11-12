@@ -2,3 +2,5 @@ Can you explain the difference between Eloquent ORM and
  Query Builder in Laravel, and when you might choose one over the other?
 
  
+
+ 
