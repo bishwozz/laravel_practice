@@ -28,5 +28,3 @@
    across multiple controllers in Laravel?
 
  
-
- 
