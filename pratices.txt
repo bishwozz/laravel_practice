@@ -26,5 +26,3 @@
 
 3.How would you handle a situation where a certain feature needs to be reusable
    across multiple controllers in Laravel?
-
- 
