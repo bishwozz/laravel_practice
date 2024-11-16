@@ -83,4 +83,4 @@ Mastering Laravel Framework and PHP
    RESTful API: Build an API with token-based authentication.
    Real-time Chat App: Implement WebSockets and broadcasting.
    Multi-Tenancy System: Understand multi-tenant architecture with Laravel.
-   =====
+   ========
