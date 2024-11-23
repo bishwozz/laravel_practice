@@ -26,3 +26,22 @@
 
 3.How would you handle a situation where a certain feature needs to be reusable
    across multiple controllers in Laravel?
+
+3.5 What’s the difference between hasOne, belongsTo, hasMany, and belongsToMany relationships in Eloquent?
+   Could you give examples of when you would use each one?
+   ==
+    hasOne: One-to-one relationship where the foreign key is on the target model.
+    Example: A User has one Profile. The Profile table will have the user_id foreign key.
+    belongsTo: One-to-one (or one-to-many) relationship where the foreign key is on the source model.
+
+    Example: A Profile belongs to a User. The Profile table will have the user_id foreign key.
+    hasMany: One-to-many relationship where the foreign key is on the target model.
+
+    Example: A Post has many Comments. The comments table will have the post_id foreign key.
+    belongsToMany: Many-to-many relationship, requiring a pivot table (junction table) to
+    store the relationship.
+
+    Example: A User belongs to many Roles, and vice versa. The pivot table role_user will
+    have user_id and role_id.
+
+4.How would you implement soft deletes in Laravel
