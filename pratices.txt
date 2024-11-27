@@ -44,6 +44,6 @@
     Example: A User belongs to many Roles, and vice versa. The pivot table role_user will
     have user_id and role_id.
 
-================================================
+====================================================
 4.How would you implement soft deletes in Laravel
 
