@@ -22,11 +22,11 @@
 
 -Selecting specific columns: Using select() to retrieve only the necessary columns rather
  than the entire row can improve performance.
-
-
+ 
+====================================================================
 3.How would you handle a situation where a certain feature needs to be reusable
    across multiple controllers in Laravel?
-   
+
 ====================================================================
 3.5 What’s the difference between hasOne, belongsTo, hasMany, and belongsToMany relationships in Eloquent?
    Could you give examples of when you would use each one?
