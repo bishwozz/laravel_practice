@@ -5,7 +5,8 @@
      avoiding the overhead of object creation in Eloquent. But Eloquent’s features,
       like relationships, scopes, and mutators/accessors, offer great advantages
        for complex applications where these abstractions make code more readable and maintainable.
-
+       
+====================================================================
 2. Let’s say you need to improve the performance of an Eloquent query that fetches
  thousands of records. What are some strategies you could use in Laravel to handle
   this more efficiently?
@@ -22,7 +23,7 @@
 
 -Selecting specific columns: Using select() to retrieve only the necessary columns rather
  than the entire row can improve performance.
- 
+
 ====================================================================
 3.How would you handle a situation where a certain feature needs to be reusable
    across multiple controllers in Laravel?
