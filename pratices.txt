@@ -6,6 +6,7 @@
       like relationships, scopes, and mutators/accessors, offer great advantages
        for complex applications where these abstractions make code more readable and maintainable.
 
+====================================================================
 2. Let’s say you need to improve the performance of an Eloquent query that fetches
  thousands of records. What are some strategies you could use in Laravel to handle
   this more efficiently?
@@ -23,10 +24,11 @@
 -Selecting specific columns: Using select() to retrieve only the necessary columns rather
  than the entire row can improve performance.
 
-
+====================================================================
 3.How would you handle a situation where a certain feature needs to be reusable
    across multiple controllers in Laravel?
 
+====================================================================
 3.5 What’s the difference between hasOne, belongsTo, hasMany, and belongsToMany relationships in Eloquent?
    Could you give examples of when you would use each one?
    ==
@@ -44,6 +46,16 @@
     Example: A User belongs to many Roles, and vice versa. The pivot table role_user will
     have user_id and role_id.
 
-==================================================================
+======================================================================
 4.How would you implement soft deletes in Laravel
+   Add the SoftDeletes trait to the model
+   Update the migration to include the deleted_at column
+   Purpose:
+      Soft deletes allow data to be "deleted" without permanently removing it
+       from the database, enabling restoration if needed.
+      Useful for audit trails and preventing accidental data loss.
+   Retrieving Soft-Deleted Records:
+      Use the withTrashed() 
+      Use onlyTrashed()
+      restore() method
 
