@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 
 # Telegram bot API URL (replace with the actual URL)
-TELEGRAM_BOT_URL = "t.me/bis_drago_bot. "
+TELEGRAM_BOT_URL = "https://api.telegram.org/bot8021090013:AAGXBr5Yu-dS0oMnXCA3epc-XXUFFeERRlU/sendMessage?chat_id=6217801019"
 
 # Thresholds
 MIN_TWEETSCOUT_SCORE = 20
@@ -133,7 +133,7 @@ if __name__ == "__main__":
     ]
     
     # Required metadata criteria
-    required_metadata = {"category": "meme", "chain": "ETH"}  # Example meta criteria
+    required_metadata = {"category": "meme", "chain": "SOL"}  # Example meta criteria
 
     for token in tokens:
         process_token(
